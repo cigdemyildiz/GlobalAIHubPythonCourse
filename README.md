@@ -1,7 +1,7 @@
-# GAIH Student Repo Example
+# GlobalAIHubPythonCourse
 ![](img/logo.png)
 
-**Course Date:** 01.02.2021/05.02.2021
+**Course Date:** 01.02.2021/05.02.2021 
 **Name:** Çiğdem  
 **Surname:** Yıldız  
 **Email:** cigdemyildiz1463@gmail.com  
